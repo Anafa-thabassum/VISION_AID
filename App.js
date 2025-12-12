@@ -6,8 +6,8 @@ import * as Speech from 'expo-speech';
 const { width, height } = Dimensions.get('window');
 
 // Replace with your actual Gemini API key
-const GEMINI_API_KEY = 'AIzaSyAGJHfUx43vUB9Pekv8XedxLOKCtmIo1SU';
-const GEMINI_API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${GEMINI_API_KEY}`;
+const GEMINI_API_KEY = 'ENTER YOUR GEMINI API KEY ';
+const GEMINI_API_URL = `GEMINI API URL=${GEMINI_API_KEY}`;
 
 // Language configuration
 const LANGUAGES = [
