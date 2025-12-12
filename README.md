@@ -131,6 +131,10 @@ Contributions are welcome! If you want to add features or improve VisionAid:
 Thanks to all contributors and users supporting VisionAid in making technology more accessible to everyone.
 
 ---
-
+✨ Author
+Made with ❤️
+ by Anafa
+https://www.linkedin.com/in/anafa-thabassum-052520326/
+---
 
 
