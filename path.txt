@@ -1,0 +1,9 @@
+C:\Users\afraan\visionaid
+requirements: 
+
+npm install @react-navigation/native
+npx expo install react-native-screens react-native-safe-area-context
+npm install @react-navigation/native-stack @react-navigation/bottom-tabs
+npx expo install expo-camera expo-speech
+npx expo install @expo/vector-icons
+ npx expo start -c for clear cache 
